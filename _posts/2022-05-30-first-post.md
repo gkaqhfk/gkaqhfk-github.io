@@ -1,12 +1,12 @@
 ---
-title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
+title: C언어 문법정리
+author: 이주영
+date: 2022-05-15 20:55:00 +0900
+categories: [c언어]
+tags: [개발자, 초보, 문법]
 pin: true
 ---
 
-## 안녕하세요
+## C언어 문법정리
 
-첫번째 포스트!
+c언어 넘무 어려워욤
