@@ -24,8 +24,7 @@ timezone: Asia/Shanghai
 title: My blog                         
 
 tagline: blog & diary   
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description: 충북대 공동훈련센터에서 개발자 과정을 들으며 강의 내용을 정리하는 블로그 입니다.                     
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
@@ -39,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Ham bora
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
